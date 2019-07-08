@@ -1,0 +1,15 @@
+{
+  "Name": "Bumblebee",
+  "DeviceRating": 5,
+  "Description": "12F",
+  "VehicleType": "Aircraft",
+  "Stats": {
+    "Body": 6,
+    "Armor": 12,
+    "Handling": 5,
+    "Sensors": 4,
+    "Speed": 5,
+    "Acceleration": 2,
+    "Pilot": 3
+  }
+}

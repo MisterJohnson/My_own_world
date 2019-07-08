@@ -1,0 +1,13 @@
+{
+  "_id": 1,
+  "wareType": "cyberware",
+  "wareGrade": "standard",
+  "part": "body",
+  "deviceName": "Wired Reflexes",
+  "rating": 2,
+  "availability": "12R",
+  "deviceRating": 4,
+  "price": 149000,
+  "capacity": 0,
+  "essencePrice": 5
+}

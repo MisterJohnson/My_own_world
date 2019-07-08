@@ -1,0 +1,9 @@
+{
+  "SpellName": "Mob Mind",
+  "Description": "A dangerous invasive mind spell only use by black mage usually. All desired target in the radius of the spell fall under your control.",
+  "Radius": "Force * 2 diameters",
+  "Effect": "Everyone targeted by the spellcaster fall under his control, the spellcaster can give individual or group command to all victims of the spell.",
+  "DrainCode": "F+1",
+  "HasFetishes": false,
+  "Mods": [3, 4, 5]
+}

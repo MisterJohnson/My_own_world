@@ -1,0 +1,8 @@
+{
+  "ComplexFormName": "F.A.Q",
+  "Description": "The user weave a thread of resonance",
+  "Radius": "limited to the host",
+  "Effect": "The user has the ability to ask multiple question related to files or persona's currently on the current host",
+  "DrainCode": "F-3",
+  "Mods": [3, 4, 5]
+}
